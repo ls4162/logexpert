@@ -7,5 +7,5 @@ logexpert
 <br/>The log data used is of the Apache Common Log Format. To see demo usage of the pipeline output, go to logexpert.online .
 
 ### Dashboard
-![](https://drive.google.com/open?id=1TgqIuayrys2-mZi4fYaIxn-yrajeAtD3)
-![](https://drive.google.com/open?id=1VhAsNJY15EemedhvX_o96z6qqqw8cNrk)
+![](https://drive.google.com/file/d/1TgqIuayrys2-mZi4fYaIxn-yrajeAtD3/view?usp=sharing)
+![](https://drive.google.com/file/d/1VhAsNJY15EemedhvX_o96z6qqqw8cNrk/view?usp=sharing)
